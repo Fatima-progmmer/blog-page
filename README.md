@@ -11,15 +11,7 @@ A **simple, responsive blog page** built with **HTML, CSS, and JavaScript**, sho
 ## 🚀 Technologies Used  
 - **HTML5**  
 - **CSS3**  
-- **JavaScript** *(if used for interactivity)*  
-
-## 📂 How to Use  
-1. Visit the live demo: [Blog Page](https://fatima-progmmer.github.io/blog-page/)  
-2. You can view blog posts and navigate through the articles easily.  
-
-## 🎨 Preview  
-*(Include a screenshot or further demo link, if applicable)*  
-
+ 
 ## 🎯 Purpose  
 This project was built as a **personal blog page** to practice **web development** skills and showcase writing content in an accessible, well-designed format.
 
